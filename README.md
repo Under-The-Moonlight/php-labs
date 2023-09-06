@@ -1,2 +1,2 @@
 # php-labs
-my-labs
+my-labs-
